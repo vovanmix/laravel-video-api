@@ -1,5 +1,5 @@
 {
-    "name": "vovanmix/laravel-video-api",
+    "name": "vovanmix/laravel-4-video-api",
     "description": "Fork of sseffa/laravel-video-api v 1.0 for Laravel 4 with fixed Vimeo links ",
     "keywords": [
         "laravel"
