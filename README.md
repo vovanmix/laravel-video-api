@@ -1,9 +1,9 @@
 Laravel Video API
 =================
 
-[![Latest Stable Version](https://poser.pugx.org/sseffa/video-api/v/stable.png)](https://packagist.org/packages/sseffa/video-api)
-[![Total Downloads](https://poser.pugx.org/sseffa/video-api/downloads.png)](https://packagist.org/packages/sseffa/video-api)
-[![Coverage Status](https://coveralls.io/repos/sseffa/video-api/badge.png)](https://coveralls.io/r/sseffa/video-api)
+[![Latest Stable Version](https://poser.pugx.org/Vovanmix/video-api/v/stable.png)](https://packagist.org/packages/Vovanmix/video-api)
+[![Total Downloads](https://poser.pugx.org/Vovanmix/video-api/downloads.png)](https://packagist.org/packages/Vovanmix/video-api)
+[![Coverage Status](https://coveralls.io/repos/Vovanmix/video-api/badge.png)](https://coveralls.io/r/Vovanmix/video-api)
 
 
 ## Installation
@@ -11,7 +11,7 @@ Laravel Video API
 ### 1. Install with Composer
 
 ```bash
-composer require "sseffa/video-api": "dev-master"
+composer require "Vovanmix/video-api": "dev-master"
 ```
 
 ### 2. Add to `app/config/app.php`
@@ -19,7 +19,7 @@ composer require "sseffa/video-api": "dev-master"
 ```php
     'providers' => array(
         // ...
-        'Sseffa\VideoApi\VideoApiServiceProvider',
+        'Vovanmix\VideoApi\VideoApiServiceProvider',
     ),
 ```
 
@@ -28,7 +28,7 @@ And:
 ```php
     'aliases' => array(
         // ...
-        'VideoApi'          => 'Sseffa\VideoApi\Facades\VideoApi',
+        'VideoApi'          => 'Vovanmix\VideoApi\Facades\VideoApi',
     ),
 ```
 

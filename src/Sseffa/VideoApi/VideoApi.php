@@ -1,9 +1,9 @@
-<?php namespace Sseffa\VideoApi;
+<?php namespace Vovanmix\VideoApi;
 
 /**
  * Class VideoApi
  *
- * @package Sseffa\VideoApi
+ * @package Vovanmix\VideoApi
  * @author  Sefa Karagöz
  */
 class VideoApi {

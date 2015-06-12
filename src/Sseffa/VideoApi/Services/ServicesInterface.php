@@ -1,9 +1,9 @@
-<?php namespace Sseffa\VideoApi\Services;
+<?php namespace Vovanmix\VideoApi\Services;
 
 /**
  * ServicesInterfaces
  * 
- * @package Sseffa\VideoApi
+ * @package Vovanmix\VideoApi
  * @author  Sefa Karagöz
  */
 interface ServicesInterface {

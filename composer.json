@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Sseffa\\VideoApi\\": "src/"
+            "Vovanmix\\VideoApi\\": "src/"
         }
     },
     "minimum-stability": "stable"

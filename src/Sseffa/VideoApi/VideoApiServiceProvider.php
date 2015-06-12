@@ -1,10 +1,10 @@
-<?php namespace Sseffa\VideoApi;
+<?php namespace Vovanmix\VideoApi;
 
 use Illuminate\Support\ServiceProvider;
 
 /**
  * Class VideoApiServiceProvider
- * @package Sseffa\VideoApi
+ * @package Vovanmix\VideoApi
  * @author Sefa Karagöz
  */
 class VideoApiServiceProvider extends ServiceProvider {
@@ -23,7 +23,7 @@ class VideoApiServiceProvider extends ServiceProvider {
      */
     public function boot() {
 
-        $this->package('sseffa/video-api');
+        $this->package('Vovanmix/video-api');
     }
 
     /**

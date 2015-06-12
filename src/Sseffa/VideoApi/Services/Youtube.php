@@ -1,9 +1,9 @@
-<?php namespace Sseffa\VideoApi\Services;
+<?php namespace Vovanmix\VideoApi\Services;
 
 /**
  * Youtube
  *
- * @package Sseffa\VideoApi
+ * @package Vovanmix\VideoApi
  * @author  Sefa Karagöz
  */
 class Youtube implements ServicesInterface {

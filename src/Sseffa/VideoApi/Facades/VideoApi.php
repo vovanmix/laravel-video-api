@@ -1,10 +1,10 @@
-<?php namespace Sseffa\VideoApi\Facades;
+<?php namespace Vovanmix\VideoApi\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Class VideoApi
- * @package Sseffa\Videochannel\Facades
+ * @package Vovanmix\Videochannel\Facades
  */
 class VideoApi extends Facade {
 

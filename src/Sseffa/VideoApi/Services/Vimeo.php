@@ -1,9 +1,9 @@
-<?php namespace Sseffa\VideoApi\Services;
+<?php namespace Vovanmix\VideoApi\Services;
 
 /**
  * Vimeo
  *
- * @package Sseffa\VideoApi
+ * @package Vovanmix\VideoApi
  * @author  Sefa Karagöz
  */
 class Vimeo implements ServicesInterface {
