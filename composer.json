@@ -1,15 +1,8 @@
 {
     "name": "vovanmix/laravel-video-api",
-    "description": "Laravel Video Data (youtube/vimeo) API",
+    "description": "Fork of sseffa/laravel-video-api v 1.0 for Laravel 4 with fixed Vimeo links ",
     "keywords": [
         "laravel"
-    ],
-    "authors": [
-        {
-            "name": "Sefa Karagöz",
-            "email": "karagozsefa@gmail.com",
-            "homepage": "http://sefakaragoz.com/"
-        }
     ],
     "require": {
         "php": ">=5.4.0",
